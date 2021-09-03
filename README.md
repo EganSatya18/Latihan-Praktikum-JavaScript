@@ -21,3 +21,9 @@
 ![Alt Text](https://github.com/EganSatya18/Latihan-Praktikum-JavaScript/blob/main/Screenshot%20Latihan%205.png)
 # 6. Latihan 6
 ![Alt Text](https://github.com/EganSatya18/Latihan-Praktikum-JavaScript/blob/main/Screenshot%20Latihan%206.png)
+
+# Tugas Praktikum
+# 1. Latihan 1 
+![Alt Text](https://github.com/EganSatya18/Latihan-Praktikum-JavaScript/blob/main/Screenshot%20Praktikum%201.png)
+# 2. Latihan 2
+![Alt Text](https://github.com/EganSatya18/Latihan-Praktikum-JavaScript/blob/main/Screenshot%20Praktikum%202.png)
